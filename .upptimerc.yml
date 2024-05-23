@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
 #  - name: Portfolio
 #    url: https://www.sean.cyou
+    - name: MTGChronicle
+    - url: https://mtgchronicle.sean.hackclub.app
 
 status-website:
   cname: status.sean.cyou
