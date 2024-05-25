@@ -4,7 +4,7 @@
     "url": "https://mtgchronicle.sean.hackclub.app/up",
     "icon": "https://icons.duckduckgo.com/ip3/mtgchronicle.sean.hackclub.app.ico",
     "slug": "mtg-chronicle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 458,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   }
 ]
