@@ -4,18 +4,19 @@
     "url": "https://mtgchronicle.sean.hackclub.app/up",
     "icon": "https://icons.duckduckgo.com/ip3/mtgchronicle.sean.hackclub.app.ico",
     "slug": "mtg-chronicle",
-    "status": "up",
-    "uptime": "98.01%",
+    "status": "down",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.01%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 530,
     "timeDay": 652,
     "timeWeek": 528,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
+      "2024-06-12": 0,
       "2024-05-26": 442,
       "2024-05-25": 108
     }
