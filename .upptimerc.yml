@@ -6,7 +6,7 @@ sites:
 #  - name: Portfolio
 #    url: https://www.sean.cyou
    - name: MTGChronicle
-     url: https://mtgchronicle.sean.hackclub.app/up
+     url: https://mtgchronicle.sean.cyou/up
 
 status-website:
   cname: status.sean.cyou
