@@ -1,8 +1,8 @@
 [
   {
     "name": "MTGChronicle",
-    "url": "https://mtgchronicle.sean.hackclub.app/up",
-    "icon": "https://icons.duckduckgo.com/ip3/mtgchronicle.sean.hackclub.app.ico",
+    "url": "https://mtgchronicle.sean.cyou/up",
+    "icon": "https://icons.duckduckgo.com/ip3/mtgchronicle.sean.cyou.ico",
     "slug": "mtg-chronicle",
     "status": "up",
     "uptime": "98.59%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "98.07%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "98.59%",
-    "time": 552,
-    "timeDay": 601,
-    "timeWeek": 545,
-    "timeMonth": 554,
-    "timeYear": 552,
+    "time": 555,
+    "timeDay": 627,
+    "timeWeek": 559,
+    "timeMonth": 558,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-07-03": 32,
       "2024-06-27": 162,
